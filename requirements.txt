@@ -1,0 +1,5 @@
+pywhatkit
+schedule
+pywin32
+pip~=24.0
+filelock~=3.14.0
